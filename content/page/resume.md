@@ -8,24 +8,41 @@ Hi future employer (or nosey individual)! My name is Aaron, and I live in the Na
 
 If you would like to reach out about a potential job offer, please ensure to put `JOB: {remainder of subject}` to ensure that I read it in a timely manner. Otherwise, I cannot guarantee a timely response!
 
-{{<columns>}}
+
 
 ## Education
-Lipscomb University
-- *Fall 2017 to Spring 2021*
-- GPA: 3.17
+**Lipscomb University**
+{{<columns>}}
+*Fall 2017 to Spring 2021* 
+
+GPA: 3.17
+{{<column>}}
 - Bachelors of Science in Information Security
 - Minor in Pure Math
+{{<endcolumns>}}
 
 ## Skills
+{{<columns>}}
 - Linux
 - Azure AD
 - Ubiquity
 - Basic Firewall
-
+- HTML/CSS
 {{<column>}}
+- Python
+- Java
+- Microsoft Office
+- Metasploit
+- SQL
+{{<endcolumns>}}
+
 ## Experience
 ### Amplion
 Security Analyst | *Summer 2020 to Present*
 - Moved the company from GSuite to Microsoft/Azure.
 - Restructured the wireless infrastructure, coordinating the project with all departments to ensure that it could be completed without impeding the work of ther departments.
+
+### Lipscomb University
+Research Assistant | *Fall 2018 to Spring 2020*
+- Leading the research topic "The Digital Divide and it's Relation to Cyber Security Efficacy".
+- Completed data collection survey and a full literature on the topic.

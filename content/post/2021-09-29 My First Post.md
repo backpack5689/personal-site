@@ -1,6 +1,6 @@
 ---
 title: Welcome to, well, me!
-date: 2021-09-27
+date: 2021-09-29
 author: Aaron Thompson
 tags: ["Personal"]
 comments: true
