@@ -15,9 +15,9 @@ pygmentsCodefencesGuessSyntax = true
 
 [Params]
 #  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
-  subtitle = "Build a beautiful and simple website in minutes"
-  mainSections = ["post","posts"]
-  logo = "img/profile.png" # Expecting square dimensions
+  # subtitle = "Build a beautiful and simple website in minutes"
+  mainSections = ["post","posts","Personal"]
+  logo = "img/profile" # Expecting square dimensions
   favicon = "img/favicon.ico"
   dateFormat = "January 2, 2006"
   commit = false
@@ -74,21 +74,19 @@ pygmentsCodefencesGuessSyntax = true
   # weibo = "username"
   # slack = "username"
 
+
+## DEV NOTE:
+##
+## all filenames for pages should exclude the ".md" postfix, along with being all in lower case
 [[menu.main]]
     name = "Blog"
-    url = "blog"
+    url = "post"
     weight = 1
 
 [[menu.main]]
-    name = "About"
-    url = "page/about/"
+    name = "Resume"
+    url = "page/resume"
     weight = 2
-
-[[menu.main]]
-    parent = "About"
-    name = "Resume - Aaron"
-    url = "about/Resume - Aaron"
-    weight = 1
 
 [[menu.main]]
     name = "Tags"

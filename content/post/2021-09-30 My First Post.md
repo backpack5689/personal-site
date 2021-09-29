@@ -3,6 +3,7 @@ title: Welcome to, well, me!
 date: 2021-09-27
 author: Aaron Thompson
 tags: ["Personal"]
+comments: true
 ---
 
 Hi all, and welcome to my website!
