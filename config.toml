@@ -17,7 +17,7 @@ pygmentsCodefencesGuessSyntax = true
 #  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
   subtitle = "Build a beautiful and simple website in minutes"
   mainSections = ["post","posts"]
-  logo = "img/avatar-icon.png" # Expecting square dimensions
+  logo = "img/profile.png" # Expecting square dimensions
   favicon = "img/favicon.ico"
   dateFormat = "January 2, 2006"
   commit = false
@@ -49,12 +49,12 @@ pygmentsCodefencesGuessSyntax = true
   website = "yourwebsite.com"
   email = "amthompson012@gmail.com"
   facebook = "username"
-  github = "username"
+  github = "backpack5689"
   # gitlab = "username"
   # bitbucket = "username"
   # twitter = "username"
-  reddit = "username"
-  linkedin = "username"
+  reddit = "backpack5689"
+  linkedin = "aaron-m-thompson"
   # xing = "username"
   # stackoverflow = "users/XXXXXXX/username"
   # snapchat = "username"
@@ -82,36 +82,13 @@ pygmentsCodefencesGuessSyntax = true
 [[menu.main]]
     name = "About"
     url = "page/about/"
-    weight = 3
+    weight = 2
 
 [[menu.main]]
     parent = "About"
     name = "Resume - Aaron"
     url = "about/Resume - Aaron"
     weight = 1
-
-[[menu.main]]
-    identifier = "samples"
-    name = "Samples"
-    weight = 2
-
-[[menu.main]]
-    parent = "samples"
-    name = "Big Image Sample"
-    url = "post/2017-03-07-bigimg-sample"
-    weight = 1
-
-[[menu.main]]
-    parent = "samples"
-    name = "Math Sample"
-    url = "post/2017-03-05-math-sample"
-    weight = 2
-
-[[menu.main]]
-    parent = "samples"
-    name = "Code Sample"
-    url = "post/2016-03-08-code-sample"
-    weight = 3
 
 [[menu.main]]
     name = "Tags"
