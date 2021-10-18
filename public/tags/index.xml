@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Aaron&#39;s Site</title>
-    <link>/tags/</link>
+    <link>http://aaront.xyz/tags/</link>
     <description>Recent content in Tags on Aaron&#39;s Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>amthompson012@gmail.com (Aaron Thompson)</managingEditor>
     <webMaster>amthompson012@gmail.com (Aaron Thompson)</webMaster>
-    <lastBuildDate>Fri, 15 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 15 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://aaront.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Camping</title>
-      <link>/tags/camping/</link>
+      <link>http://aaront.xyz/tags/camping/</link>
       <pubDate>Fri, 15 Oct 2021 00:00:00 +0000</pubDate>
       <author>amthompson012@gmail.com (Aaron Thompson)</author>
-      <guid>/tags/camping/</guid>
+      <guid>http://aaront.xyz/tags/camping/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Personal</title>
-      <link>/tags/personal/</link>
+      <link>http://aaront.xyz/tags/personal/</link>
       <pubDate>Wed, 29 Sep 2021 00:00:00 +0000</pubDate>
       <author>amthompson012@gmail.com (Aaron Thompson)</author>
-      <guid>/tags/personal/</guid>
+      <guid>http://aaront.xyz/tags/personal/</guid>
       <description></description>
     </item>
     

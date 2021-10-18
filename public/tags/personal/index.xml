@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Personal on Aaron&#39;s Site</title>
-    <link>/tags/personal/</link>
+    <link>http://aaront.xyz/tags/personal/</link>
     <description>Recent content in Personal on Aaron&#39;s Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>amthompson012@gmail.com (Aaron Thompson)</managingEditor>
     <webMaster>amthompson012@gmail.com (Aaron Thompson)</webMaster>
-    <lastBuildDate>Wed, 29 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/personal/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 29 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://aaront.xyz/tags/personal/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Welcome to, well, me!</title>
-      <link>/post/2021-09-29-my-first-post/</link>
+      <link>http://aaront.xyz/post/2021-09-29-my-first-post/</link>
       <pubDate>Wed, 29 Sep 2021 00:00:00 +0000</pubDate>
       <author>amthompson012@gmail.com (Aaron Thompson)</author>
-      <guid>/post/2021-09-29-my-first-post/</guid>
+      <guid>http://aaront.xyz/post/2021-09-29-my-first-post/</guid>
       <description>Hi all, and welcome to my website!
 There are going to be a lot of things that are going to end up on this blog, but to begin with, I&amp;rsquo;m just happy you&amp;rsquo;re taking the time to read this!
 First, a little bit about me! I am a Security analyst by day, and a lot of different hats by night. Wether I&amp;rsquo;m out camping, playing videogames, watching a movie with my girlfriend, or helping with church, I always end up being a bit busy.</description>
