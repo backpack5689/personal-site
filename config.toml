@@ -46,9 +46,9 @@ pygmentsCodefencesGuessSyntax = true
 
 [Author]
   name = "Aaron Thompson"
-  website = "yourwebsite.com"
+  website = "aaront.xyz"
   email = "amthompson012@gmail.com"
-  facebook = "username"
+  #facebook = "username"
   github = "backpack5689"
   # gitlab = "username"
   # bitbucket = "username"

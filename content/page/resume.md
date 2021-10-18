@@ -13,7 +13,7 @@ If you would like to reach out about a potential job offer, please ensure to put
 ## Education
 **Lipscomb University**
 {{<columns>}}
-*Fall 2017 to Spring 2021* 
+*Fall 2017 to Spring 2021*
 
 GPA: 3.17
 {{<column>}}
@@ -41,6 +41,7 @@ GPA: 3.17
 Security Analyst | *Summer 2020 to Present*
 - Moved the company from GSuite to Microsoft/Azure.
 - Restructured the wireless infrastructure, coordinating the project with all departments to ensure that it could be completed without impeding the work of ther departments.
+- Wrote *all* the policies regarding HIPAA.
 
 ### Lipscomb University
 Research Assistant | *Fall 2018 to Spring 2020*
