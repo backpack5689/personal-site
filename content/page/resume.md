@@ -6,8 +6,7 @@ comments: false
 
 Hi future employer (or nosey individual)! My name is Aaron, and I live in the Nashville Area. Although I am an information security major, I wear a multitude of other hats! Outside of work, I enjoy camping, cooking, playing videogames, or working with OpenSource software. In my home, I really enjoy putting work into deploying different servers, as it is both fun, and a easy way to ensure that I can better server you, my boss (or any other individual).
 
-If you would like to reach out about a potential job offer, please ensure to put `JOB: {remainder of subject}` to ensure that I read it in a timely manner. Otherwise, I cannot guarantee a timely response!
-
+If you are interested in chatting, please feel free to book some time on my calendar through [this link](https://www.calendar.com/aarons-workspace/)!
 
 
 ## Education
@@ -40,7 +39,7 @@ GPA: 3.17
 ### Amplion
 Security Analyst | *Summer 2020 to Present*
 - Moved the company from GSuite to Microsoft/Azure.
-- Restructured the wireless infrastructure, coordinating the project with all departments to ensure that it could be completed without impeding the work of ther departments.
+- Restructured the wireless infrastructure, coordinating the project with all departments to ensure that it could be completed without impeding the work of their departments.
 - Wrote *all* the policies regarding HIPAA.
 
 ### Lipscomb University
