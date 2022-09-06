@@ -36,8 +36,15 @@ GPA: 3.17
 {{<endcolumns>}}
 
 ## Experience
+
+### A. O. Smith
+
+Information Security Analyst | *December 2021 to Present*
+- Incident Response: Both day-to-day tickets, along with threat hunts and more involved priority incidents
+- Lead analyst for Vulnerability Management, starting the program from the ground up
+
 ### Amplion
-Security Analyst | *Summer 2020 to Present*
+Security Analyst | *June 2020 to December 2021*
 - Moved the company from GSuite to Microsoft/Azure.
 - Restructured the wireless infrastructure, coordinating the project with all departments to ensure that it could be completed without impeding the work of their departments.
 - Wrote *all* the policies regarding HIPAA.
