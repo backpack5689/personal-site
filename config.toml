@@ -16,7 +16,7 @@ pygmentsCodefencesGuessSyntax = true
 [Params]
 #  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
   # subtitle = "Build a beautiful and simple website in minutes"
-  mainSections = ["post","posts","Personal"]
+  mainSections = ["post","Personal"]
   logo = "img/profile" # Expecting square dimensions
   favicon = "img/favicon.ico"
   dateFormat = "January 2, 2006"
@@ -30,7 +30,7 @@ pygmentsCodefencesGuessSyntax = true
   delayDisqus = true
   showRelatedPosts = true
 #  hideAuthor = true
-#  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
+  gcse = "21bb7a88d9768459a" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
 
 #[[Params.bigimg]]
 #  src = "img/triangle.jpg"
@@ -80,7 +80,7 @@ pygmentsCodefencesGuessSyntax = true
 ## all filenames for pages should exclude the ".md" postfix, along with being all in lower case
 [[menu.main]]
     name = "Blog"
-    url = "post"
+    url = ""
     weight = 1
 
 [[menu.main]]
