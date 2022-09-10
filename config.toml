@@ -11,7 +11,7 @@ pygmentsCodefencesGuessSyntax = true
 #pygmentsUseClassic = true
 #pygmentOptions = "linenos=inline"
 #disqusShortname = "XXX"
-googleAnalytics = "288290537" # This is the property ID for the site
+googleAnalytics = 'G-LRTZDH6JQ7' # This is the property ID for the site
 
 [Params]
 #  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
@@ -30,7 +30,7 @@ googleAnalytics = "288290537" # This is the property ID for the site
   delayDisqus = true
   showRelatedPosts = true
 #  hideAuthor = true
-  gcse = "21bb7a88d9768459a" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
+  # gcse = "21bb7a88d9768459a" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
 
 #[[Params.bigimg]]
 #  src = "img/triangle.jpg"
