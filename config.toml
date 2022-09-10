@@ -11,7 +11,7 @@ pygmentsCodefencesGuessSyntax = true
 #pygmentsUseClassic = true
 #pygmentOptions = "linenos=inline"
 #disqusShortname = "XXX"
-googleAnalytics = "G-LRTZDH6JQ7"
+googleAnalytics = "288290537" # This is the property ID for the site
 
 [Params]
 #  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
