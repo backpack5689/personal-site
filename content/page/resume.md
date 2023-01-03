@@ -13,6 +13,7 @@ If you are interested in chatting, please feel free to book some time on my cale
 **SANS Certified Incident Handler**
 {{<columns>}}
 *December 2022*
+
 Analyst ID: [215097](https://www.giac.org/certified-professional/Aaron-Thompson/215097)
 {{<column>}}
 - Focused on techniques used in hacking and how to detect them
