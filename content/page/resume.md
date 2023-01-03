@@ -10,6 +10,15 @@ If you are interested in chatting, please feel free to book some time on my cale
 
 
 ## Education
+**SANS Certified Incident Handler**
+{{<columns>}}
+*December 2022*
+Analyst ID: [215097](https://www.giac.org/certified-professional/Aaron-Thompson/215097)
+{{<column>}}
+- Focused on techniques used in hacking and how to detect them
+- Scored 91% -- Advisory Board Member ([Verify Here](https://www.credly.com/earner/earned/badge/0326d9ab-6aa1-45e1-96a6-7adac1076728))
+{{<endcolumns>}}
+
 **Lipscomb University**
 {{<columns>}}
 *Fall 2017 to Spring 2021*
