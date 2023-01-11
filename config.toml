@@ -10,7 +10,7 @@ pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 #pygmentsUseClassic = true
 #pygmentOptions = "linenos=inline"
-#disqusShortname = "XXX"
+disqusShortname = "aaront-xyz"
 googleAnalytics = 'UA-208993498-1' # This is the property ID for the site
 
 [Params]

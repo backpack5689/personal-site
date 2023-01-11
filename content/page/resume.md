@@ -32,17 +32,13 @@ GPA: 3.17
 
 ## Skills
 {{<columns>}}
-- Linux
-- Azure AD
-- Ubiquity
-- Basic Firewall
-- HTML/CSS
+- Incident Response
+- Cyber Threat Hunting
+- Presentations & Communications
 {{<column>}}
 - Python
-- Java
-- Microsoft Office
-- Metasploit
-- SQL
+- PowerShell
+- Bash
 {{<endcolumns>}}
 
 ## Experience
@@ -53,7 +49,7 @@ Information Security Analyst | *December 2021 to Present*
 - Incident Response: Both day-to-day tickets, along with threat hunts and more involved priority incidents
 - Lead analyst for Vulnerability Management, starting the program from the ground up
 
-### Amplion
+### Amplion Clinical Communications
 Security Analyst | *June 2020 to December 2021*
 - Moved the company from GSuite to Microsoft/Azure.
 - Restructured the wireless infrastructure, coordinating the project with all departments to ensure that it could be completed without impeding the work of their departments.
