@@ -43,11 +43,23 @@ GPA: 3.17
 
 ## Experience
 
+### Mohawk Industries
+
+Senior Incident Response Analyst | *June 2023 to present*
+- Worked with management to develop the Incident Response team, increasing the time size from just 1 individual analyst to 6 analysts across the globe.
+- Worked closely with IT teams from all over to respond to incidents within a multitude of separate-yet-connected business units.
+- Created and maintained documentation for a “Executive Summary Report” for incidents to publish to upper management, clearly communicating the incident in full with a summary, MITRE ATT&CK framework graph, and a clear timeline of the incident
+- Worked to mentor and guide a junior Incident Response Analyst in achieving competency in key areas like Incident Management, our XDR platform, and more.
+
+
 ### A. O. Smith
 
-Information Security Analyst | *December 2021 to Present*
-- Incident Response: Both day-to-day tickets, along with threat hunts and more involved priority incidents
-- Lead analyst for Vulnerability Management, starting the program from the ground up
+Information Security Analyst | *December 2021 to June 2023*
+- Completed a multitude of threat hunts within the environment resulting in new detections, as well as thoroughly documented each hunt to hand off to upper management.
+- Headed a vulnerability reduction project that worked with multiple teams from across the globe and reduced the vulnerabilities by 83% in 1 year.
+- Led and resolved many cybersecurity incidents from beginning to end, including root cause analysis and executive summaries.
+- Worked closely with other technical and local teams to quickly address Cyber Security incidents in a timely and efficient manner.
+
 
 ### Amplion Clinical Communications
 Security Analyst | *June 2020 to December 2021*
