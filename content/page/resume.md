@@ -10,6 +10,18 @@ If you are interested in chatting, please feel free to book some time on my cale
 
 
 ## Education
+
+**ISC² Certified Cybersecurity (CC)**
+{{<columns>}}
+*September 2023*
+
+Member ID: 1804781
+{{<column>}}
+- Focused on the wide basis of Cyber Security, covering a multitude of fields like Security Operations, Governance, and more.
+- [Verify Here](https://www.credly.com/badges/17b90c3b-b3e6-4a49-812a-9aeecf609fe2/public_url)
+{{<endcolumns>}}
+
+
 **SANS Certified Incident Handler**
 {{<columns>}}
 *December 2022*
