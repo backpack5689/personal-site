@@ -20,6 +20,17 @@ Analyst ID: [215097](https://www.giac.org/certified-professional/Aaron-Thompson/
 - Scored 91% -- Advisory Board Member ([Verify Here](https://www.credly.com/earner/earned/badge/0326d9ab-6aa1-45e1-96a6-7adac1076728))
 {{<endcolumns>}}
 
+**Western Governors University**
+{{<columns>}}
+*Fall 2023 to Present*
+
+GPA: 3.0
+{{<column>}}
+- Masters of Science in Information Security & Cyber Assurance
+- Minor in Pure Math
+{{<endcolumns>}}
+
+
 **Lipscomb University**
 {{<columns>}}
 *Fall 2017 to Spring 2021*
