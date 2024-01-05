@@ -11,6 +11,14 @@ If you are interested in chatting, please feel free to book some time on my cale
 
 ## Education
 
+**CompTIA PenTest+**
+{{<columns>}}
+*December 2023*
+
+{{<column>}}
+- Focused on how to exploit systems as a red team member, and how to move through each stage of the MITRE ATT&CK framework.
+{{<endcolumns>}}
+
 **ISC² Certified Cybersecurity (CC)**
 {{<columns>}}
 *September 2023*
@@ -69,6 +77,7 @@ GPA: 3.17
 ### Mohawk Industries
 
 Senior Incident Response Analyst | *June 2023 to present*
+- Implemented Reliaquest as a SIEM within 3 months, including integrating with our XDR platform, E-mail Security platform, and our Asset Management platform.
 - Worked with management to develop the Incident Response team, increasing the time size from just 1 individual analyst to 6 analysts across the globe.
 - Worked closely with IT teams from all over to respond to incidents within a multitude of separate-yet-connected business units.
 - Created and maintained documentation for a “Executive Summary Report” for incidents to publish to upper management, clearly communicating the incident in full with a summary, MITRE ATT&CK framework graph, and a clear timeline of the incident
